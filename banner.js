@@ -54,5 +54,4 @@ BannerCanAutoPlay.prototype.switchFun = function(obj,dir){
 			});
 		}
 	}
-	
 }
